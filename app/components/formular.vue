@@ -8,7 +8,7 @@
     <input type="text" id="company" name="company" required />
 
     <label for="spokesperson">Ansprechperson</label>
-    <input type="text" id="last-name" name="last-name" required />
+    <input type="text" id="name" name="name" required />
 
     <label for="email">E-Mail</label>
     <input type="email" id="email" name="email" required />
