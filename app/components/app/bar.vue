@@ -98,19 +98,19 @@ button[aria-expanded="true"] {
   header {
     bottom: 0;
   }
-  header[data-ref="/neu-hier"] {
+  header[data-ref^="/neu-hier"] {
     background-color: var(--color-neu-hier);
   }
-  header[data-ref="/bouldern"] {
+  header[data-ref^="/bouldern"] {
     background-color: var(--color-bouldern);
   }
-  header[data-ref="/trainieren"] {
+  header[data-ref^="/trainieren"] {
     background-color: var(--color-trainieren);
   }
-  header[data-ref="/spielen"] {
+  header[data-ref^="/spielen"] {
     background-color: var(--color-spielen);
   }
-  header[data-ref="/geniessen"] {
+  header[data-ref^="/geniessen"] {
     background-color: var(--color-geniessen);
   }
 }
