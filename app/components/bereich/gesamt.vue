@@ -2161,38 +2161,42 @@
     <g id="texts">
       <g id="Spielbereich">
         <g>
-          <text class="cls-46" transform="translate(85 416.55)">
-            <tspan x="0" y="0">Spielbe</tspan>
-            <tspan class="cls-64" x="146.34" y="0">r</tspan>
-            <tspan x="161.59" y="0">eich →</tspan>
-          </text>
-          <path
-            class="cls-41"
-            d="M57.62,403.03c0,18.2,14.75,32.95,32.95,32.95h278.21c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95H90.56c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
-          />
-          <text class="cls-46" transform="translate(85 416.55)">
-            <tspan x="0" y="0">Spielbe</tspan>
-            <tspan class="cls-64" x="146.34" y="0">r</tspan>
-            <tspan x="161.59" y="0">eich →</tspan>
-          </text>
+          <NuxtLink class="link spielbereich" :to="{ name: 'spielen' }">
+            <text class="cls-46" transform="translate(85 416.55)">
+              <tspan x="0" y="0">Spielbe</tspan>
+              <tspan class="cls-64" x="146.34" y="0">r</tspan>
+              <tspan x="161.59" y="0">eich →</tspan>
+            </text>
+            <path
+              class="cls-41"
+              d="M57.62,403.03c0,18.2,14.75,32.95,32.95,32.95h278.21c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95H90.56c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
+            />
+            <text class="cls-46" transform="translate(85 416.55)">
+              <tspan x="0" y="0">Spielbe</tspan>
+              <tspan class="cls-64" x="146.34" y="0">r</tspan>
+              <tspan x="161.59" y="0">eich →</tspan>
+            </text>
+          </NuxtLink>
         </g>
       </g>
       <g id="Boulderbereiche">
         <g>
-          <text class="cls-46" transform="translate(485.91 244.09)">
-            <tspan x="0" y="0">Boulderbe</tspan>
-            <tspan class="cls-44" x="202.43" y="0">r</tspan>
-            <tspan class="cls-52" x="217.68" y="0">eiche →</tspan>
-          </text>
-          <path
-            class="cls-48"
-            d="M458.52,230.57c0,18.2,14.75,32.95,32.95,32.95h358.35c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95h-358.35c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
-          />
-          <text class="cls-46" transform="translate(485.91 244.09)">
-            <tspan x="0" y="0">Boulderbe</tspan>
-            <tspan class="cls-44" x="202.43" y="0">r</tspan>
-            <tspan class="cls-52" x="217.68" y="0">eiche →</tspan>
-          </text>
+          <NuxtLink class="link boulderbereiche" :to="{ name: 'bouldern' }">
+            <text class="cls-46" transform="translate(485.91 244.09)">
+              <tspan x="0" y="0">Boulderbe</tspan>
+              <tspan class="cls-44" x="202.43" y="0">r</tspan>
+              <tspan class="cls-52" x="217.68" y="0">eiche →</tspan>
+            </text>
+            <path
+              class="cls-48"
+              d="M458.52,230.57c0,18.2,14.75,32.95,32.95,32.95h358.35c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95h-358.35c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
+            />
+            <text class="cls-46" transform="translate(485.91 244.09)">
+              <tspan x="0" y="0">Boulderbe</tspan>
+              <tspan class="cls-44" x="202.43" y="0">r</tspan>
+              <tspan class="cls-52" x="217.68" y="0">eiche →</tspan>
+            </text>
+          </NuxtLink>
         </g>
       </g>
       <g id="Garten">
@@ -2283,28 +2287,30 @@
       </g>
       <g id="Bistro">
         <g>
-          <text class="cls-46" transform="translate(563.811 1102.2061)">
-            <tspan x="0" y="0">Bist</tspan>
-            <tspan class="cls-64" x="75.85" y="0">r</tspan>
-            <tspan x="91.1" y="0">o &amp;</tspan>
-            <tspan class="cls-61" x="154.53" y="0"></tspan>
-            <tspan x="163.83" y="0">Aussenbe</tspan>
-            <tspan class="cls-64" x="358.37" y="0">r</tspan>
-            <tspan x="373.62" y="0">eich →</tspan>
-          </text>
-          <path
-            class="cls-60"
-            d="M536.43,1088.68c0,18.2,14.75,32.95,32.95,32.95h490.25c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95h-490.25c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
-          />
-          <text class="cls-46" transform="translate(563.811 1102.2061)">
-            <tspan x="0" y="0">Bist</tspan>
-            <tspan class="cls-64" x="75.85" y="0">r</tspan>
-            <tspan x="91.1" y="0">o &amp;</tspan>
-            <tspan class="cls-61" x="154.53" y="0"></tspan>
-            <tspan x="163.83" y="0">Aussenbe</tspan>
-            <tspan class="cls-64" x="358.37" y="0">r</tspan>
-            <tspan x="373.62" y="0">eich →</tspan>
-          </text>
+          <NuxtLink class="link bistrobereich" :to="{ name: 'geniessen' }">
+            <text class="cls-46" transform="translate(563.811 1102.2061)">
+              <tspan x="0" y="0">Bist</tspan>
+              <tspan class="cls-64" x="75.85" y="0">r</tspan>
+              <tspan x="91.1" y="0">o &amp;</tspan>
+              <tspan class="cls-61" x="154.53" y="0"></tspan>
+              <tspan x="163.83" y="0">Aussenbe</tspan>
+              <tspan class="cls-64" x="358.37" y="0">r</tspan>
+              <tspan x="373.62" y="0">eich →</tspan>
+            </text>
+            <path
+              class="cls-60"
+              d="M536.43,1088.68c0,18.2,14.75,32.95,32.95,32.95h490.25c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95h-490.25c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
+            />
+            <text class="cls-46" transform="translate(563.811 1102.2061)">
+              <tspan x="0" y="0">Bist</tspan>
+              <tspan class="cls-64" x="75.85" y="0">r</tspan>
+              <tspan x="91.1" y="0">o &amp;</tspan>
+              <tspan class="cls-61" x="154.53" y="0"></tspan>
+              <tspan x="163.83" y="0">Aussenbe</tspan>
+              <tspan class="cls-64" x="358.37" y="0">r</tspan>
+              <tspan x="373.62" y="0">eich →</tspan>
+            </text>
+          </NuxtLink>
         </g>
       </g>
       <g id="Eingang">
@@ -2347,24 +2353,26 @@
         </g>
       </g>
       <g>
-        <text class="cls-46" transform="translate(967.39 863.6)">
-          <tspan class="cls-58" x="0" y="0">T</tspan>
-          <tspan class="cls-53" x="20.98" y="0">r</tspan>
-          <tspan class="cls-49" x="36.28" y="0">ainingsbe</tspan>
-          <tspan class="cls-64" x="226.93" y="0">r</tspan>
-          <tspan x="242.18" y="0">eiche →</tspan>
-        </text>
-        <path
-          class="cls-62"
-          d="M940,850.07c0,18.2,14.75,32.95,32.95,32.95h382.85c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95h-382.85c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
-        />
-        <text class="cls-46" transform="translate(967.39 863.6)">
-          <tspan class="cls-58" x="0" y="0">T</tspan>
-          <tspan class="cls-53" x="20.98" y="0">r</tspan>
-          <tspan class="cls-49" x="36.28" y="0">ainingsbe</tspan>
-          <tspan class="cls-64" x="226.93" y="0">r</tspan>
-          <tspan x="242.18" y="0">eiche →</tspan>
-        </text>
+        <NuxtLink class="link trainigsbereich" :to="{ name: 'trainieren' }">
+          <text class="cls-46" transform="translate(967.39 863.6)">
+            <tspan class="cls-58" x="0" y="0">T</tspan>
+            <tspan class="cls-53" x="20.98" y="0">r</tspan>
+            <tspan class="cls-49" x="36.28" y="0">ainingsbe</tspan>
+            <tspan class="cls-64" x="226.93" y="0">r</tspan>
+            <tspan x="242.18" y="0">eiche →</tspan>
+          </text>
+          <path
+            class="cls-62"
+            d="M940,850.07c0,18.2,14.75,32.95,32.95,32.95h382.85c18.2,0,32.95-14.75,32.95-32.95s-14.75-32.95-32.95-32.95h-382.85c-18.2,0-32.95,14.75-32.95,32.95,0,0,0-18.2,0,0Z"
+          />
+          <text class="cls-46" transform="translate(967.39 863.6)">
+            <tspan class="cls-58" x="0" y="0">T</tspan>
+            <tspan class="cls-53" x="20.98" y="0">r</tspan>
+            <tspan class="cls-49" x="36.28" y="0">ainingsbe</tspan>
+            <tspan class="cls-64" x="226.93" y="0">r</tspan>
+            <tspan x="242.18" y="0">eiche →</tspan>
+          </text>
+        </NuxtLink>
       </g>
     </g>
   </svg>
@@ -2587,9 +2595,7 @@
 }
 
 .cls-46 {
-  font-family:
-    ABCCameraRoundedUnlicensedTrial-Regular,
-    "ABC Camera Rounded Unlicensed Trial";
+  font-family: "ABCCamera", sans-serif;
   font-size: 45px;
 }
 
