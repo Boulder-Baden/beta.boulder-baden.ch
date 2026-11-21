@@ -2,6 +2,21 @@
   <Logo class="hero" />
   <Navigation />
 
+  <section>
+    <h2>Besonderes</h2>
+
+    <p>
+      21. November 2026:
+      <a href="https://www.instagram.com/p/DewY8x9DQ2n/" target="_blank"
+        >Wettkampf The Bridge</a
+      ><br />
+      22. November 2026:
+      <a href="https://www.instagram.com/reel/DeuL-PvNQaX/" target="_blank"
+        >Jubiläumsfeier</a
+      >
+    </p>
+  </section>
+
   <section id="oeffnungszeiten">
     <h2>Öffnungszeiten & Eintrittspreise</h2>
     <Oeffnungszeiten :items="openingTimes" :classes="$style" />
