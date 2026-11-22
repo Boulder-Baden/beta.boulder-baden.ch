@@ -9,14 +9,14 @@ address {
 
 @media (max-width: 767px) {
   address {
-    background-image: url("@/assets/standort-small.png");
+    background-image: url("@/assets/standort-small.webp");
     aspect-ratio: 944/745;
   }
 }
 
 @media (min-width: 768px) {
   address {
-    background-image: url("@/assets/standort.png");
+    background-image: url("@/assets/standort.webp");
     aspect-ratio: 993/646;
   }
 }
