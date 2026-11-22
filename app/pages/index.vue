@@ -46,7 +46,7 @@
       <br />
       Bleibe up to date, folge uns auf
       <a href="https://www.instagram.com/bouba_boulderbaden/">
-        Insta
+        Instagram
         <span class="icon instagram"></span>
       </a>
     </address>
