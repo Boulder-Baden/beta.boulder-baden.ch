@@ -1,5 +1,5 @@
 <template>
-  <h1>Firmenagebot</h1>
+  <h1>Firmenangebot</h1>
 
   <section>
     <h2>Team-Ausflug</h2>

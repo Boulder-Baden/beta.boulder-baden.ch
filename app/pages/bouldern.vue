@@ -49,7 +49,7 @@
   </section>
 
   <section id="grade">
-    <h2>Schwierigkreitsgrade</h2>
+    <h2>Schwierigkeitsgrade</h2>
 
     <p>
       Die Schwierigkeits-Skala im BOUBA besteht aus den Graden 1 bis 6. In der
